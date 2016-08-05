@@ -6,3 +6,6 @@
 
 ### Наши [статьи](https://github.com/ebanoe-it/news/issues) может писать и комментировать любой.  
 Удаляться будет только откровенный спам и нелегальный контент вроде порно или призывов к терактам.
+
+[Смотреть статьи](https://github.com/ebanoe-it/news/issues)  
+[Добавить статью](https://github.com/ebanoe-it/news/issues/new) (нужна регистрация на github, она быстрая)  
